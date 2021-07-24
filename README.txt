@@ -1,0 +1,1 @@
+This is student Mangament System where you can students name,address, mobile Number, Parents Mobile Number, Fees Paid, and more 
